@@ -11,6 +11,11 @@ A simple Solidity smart contract that records **borrower–lender relationships*
 - A **borrower** to repay the exact amount.
 - Immutable on-chain tracking of both actions.
 
+
+## Deployed Contract
+**Celo Sepolia Testnet**
+[view on block scout](https://celo-sepolia.blockscout.com/tx/0x4f7e3486dabb2b1c8636228101ead8eebc59ebdeb36614dca57b2ffe24d06a66)
+
 ## ⚙️ Smart Contract
 
 ```solidity
